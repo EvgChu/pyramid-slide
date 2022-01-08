@@ -17,21 +17,21 @@ header {
     text-align: center;
 }
 #fieldPyramid {
+    padding: 50px;
     background-color: #beb8b8;
     border: 1px solid #323232;
     vertical-align: center;
+    text-align: center;
 }
 
 .brickvisible {
-    width: "15px";
-    /* height: "25px"; */
-    /* margin: "3px"; */
-    background-color: "brown";
-    display: "inline-block";
+    width: 15px;
+    background-color: brown;
+    display: inline-block;
 }
 
 .brickunvisible{
-    width: "15px";
-    background-color: "lightblue";
-    display: "inline-block";
+    width: 15px;
+    background-color: lightblue;
+    display: inline-block;
 }
