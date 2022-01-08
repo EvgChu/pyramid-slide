@@ -1,0 +1,37 @@
+
+header {
+    padding: 50px;
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    background-color: palevioletred;
+    text-align: center;
+    vertical-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#controlPyramid {
+    background-color: #beb8b8;
+    border: 1px solid #323232;
+    vertical-align: center;
+    text-align: center;
+}
+#fieldPyramid {
+    background-color: #beb8b8;
+    border: 1px solid #323232;
+    vertical-align: center;
+}
+
+.brickvisible {
+    width: "15px";
+    /* height: "25px"; */
+    /* margin: "3px"; */
+    background-color: "brown";
+    display: "inline-block";
+}
+
+.brickunvisible{
+    width: "15px";
+    background-color: "lightblue";
+    display: "inline-block";
+}
